@@ -44,7 +44,7 @@ function hook_offen_render_footer($data, $conf)
 function offen_dummy_translation()
 {
     // meta
-    t('A plugin that adds Offen tracking code to Shaarli pages.');
+    t('A plugin that adds Offen analytics tracking code to Shaarli pages.');
     t('Offen URL');
     t('Ofefn account ID');
 }
