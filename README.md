@@ -1,5 +1,5 @@
 # shaarli-offen
-A [Shaarli](https://github.com/shaarli/Shaarli) plugin that adds [Offen](https://github.com/offen/offen) tracking code to Shaarli pages.
+A [Shaarli](https://github.com/shaarli/Shaarli) plugin that adds [Offen](https://github.com/offen/offen) analaytics tracking code to Shaarli pages.
 
 ## Requirements
 You need to have [Offen](https://github.com/offen/offen) running on your server.
