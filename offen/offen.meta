@@ -1,0 +1,4 @@
+description="A plugin that adds Offen tracking code to Shaarli pages."
+parameters="OFFEN_URL;OFFEN_ACCOUNTID"
+parameter.OFFEN_URL="Offen URL"
+parameter.OFFEN_ACCOUNTID="Offen account ID"
